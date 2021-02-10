@@ -13,17 +13,24 @@ Se precisar de ajuda estou por aqui.
     <td>💭 Gostaria muito de aprender</td>
   </tr>
   <tr>
-    <td><b>PHP         | </b> Laravel, CI, Adianti e Puro</td>
+    <td><b><img src="https://www.vectorlogo.zone/logos/php/php-vertical.svg" height="30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>{  Laravel, CI, Adianti e Puro }</td>
     <td>Svelte, Node, Docker e Tailwind </td>
    <td>Python</td>
     </tr>
   <tr>
-    <td><b>Javascript | </b> Jquery, Javascript e Vue </td>
+    <td><b><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="30">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; </b>{ Jquery, Javascript e Vue }</td>
     </tr>
   <tr>
-    <td><b>CSS         | </b> SCSS, Bootstrap e Puro </td>
+    <td><b><img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" height="30"> &nbsp;</b>{ SCSS, Bootstrap e Puro }</td>
   </tr>
-  
+    <tr>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" height="40"> 
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="40">
+      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" height="40">
+   </td>
+  </tr>
  </table>
  
 💬 Adoro mapas 🗺, Scrum e GIT e estou sempre aprendendo algo novo.
+
