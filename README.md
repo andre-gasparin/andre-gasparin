@@ -14,7 +14,7 @@ Se precisar de ajuda estou por aqui.
   </tr>
   <tr>
     <td><b><img src="https://www.vectorlogo.zone/logos/php/php-vertical.svg" height="30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>{  Laravel, CI, Adianti e Puro }</td>
-    <td>Svelte, Node, Docker e Tailwind </td>
+    <td>Flutter, Svelte, Node, Docker e Tailwind </td>
    <td>Python</td>
     </tr>
   <tr>
