@@ -1,4 +1,6 @@
-#  André Gasparin 🤗
+#  André Gasparin 🤗 
+
+Me chame no <a href="https://t.me/Andre_Gasparin">TELEGRAM (@Andre_Gasparin)</a>
 
 ### Olá, bem vindo ao meu GIT 👋
 
